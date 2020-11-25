@@ -1,0 +1,38 @@
+#fig{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  p{display: inline-block;
+    margin-top: 20px;
+    font-size: large;
+    font: arial;
+    text-align: center;
+  }
+
+  h3{text-align: center;
+padding-bottom: 15px;}
+  
+  img{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+  @media only screen and (max-width: 600px) {
+      img{width: 100%;}
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
