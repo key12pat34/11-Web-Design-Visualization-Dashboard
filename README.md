@@ -137,3 +137,8 @@ Small screen:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+----------------------------------------------------------------
+
+# Submission File: project folder
+
+* test web-output: https://key12pat34.github.io/Web-Design-Challenge---hw11/Project/html/homepage.html
